@@ -41,7 +41,6 @@ void init() {
     glTranslatef(0, 0, -3);
     glRotatef(50, 1, 0, 0);
     glRotatef(180, 0, 1, 0);
-    // rotate y: 70 -> 180
 }
 
 int main(int argc, char** argv) {
